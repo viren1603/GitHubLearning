@@ -1,0 +1,21 @@
+Create New Reposatry
+create 2 baranch : 
+   1) master 
+   2) admin
+admin under so maney employe so admin sub employe
+admin : 
+  employe 1
+  employe 2
+(Sub branch create karva mate step || 1 : View all branch || 2 :  Click New Branch  || 3 : box open thase aemathi pela box ma branch nu name employe 1 and niche bija box ma tmare select karvanu ke kya branch ni tmare sub branch karvani che  )
+First Box - employe1 
+second box - admin 
+aevij rite employe ni pan sub branch hse (sub employe1)
+
+CHART 
+
+admin : employe 1 
+            : sub emp 1
+      : employe 2 
+            : sub emp 2
+
+jyare live pro ma work ma karta hoi tyare aakho divas sub emp 1 ma commit marvani and che le 6 vage employe1 ma commit marvani                  
